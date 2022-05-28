@@ -1,0 +1,23 @@
+h1 {
+    color: crimson;
+}
+
+a {
+    color: crimson;
+    font-size: 25px;
+}
+#index {
+    background-image:url(../img/jeff3.jpg)
+}
+
+#lachicamisteriosa {
+    background-image: url(../img/vale3.jpg);
+}
+
+#historiadejeff {
+    background-image: url(../img/jeff1.jpg);
+}
+p {
+    color: aliceblue;
+    font-size: 25px;
+}
